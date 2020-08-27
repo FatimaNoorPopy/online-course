@@ -1,0 +1,22 @@
+.course{
+    display:flex;
+    padding-bottom: 40px;
+    padding-left: 40px;
+
+background-color: rgb(144, 196, 231);
+}
+.name{
+padding-left: 40px;
+}
+.name h1{
+    color: rgb(150, 64, 64);
+   
+}
+/* .button{
+    background-color:green;
+    color: white;
+    height: 40px;
+    width : 150px;
+    cursor: pointer;
+
+} */

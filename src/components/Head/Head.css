@@ -1,0 +1,9 @@
+.navbar{
+    background-color: rgba(69, 71, 212, 0.856);
+    margin-bottom: 50px;
+    padding-top:30%;
+}
+.nav li a{
+    color: white;
+   
+}
